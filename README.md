@@ -1,11 +1,10 @@
 <div>
 
 # Hi 👋, I'm Md Almin Sheikh
-### A passionate frontend developer from Bangladesh
-
 <p align="center">
-  <img width="100%" height="400" src="https://github.com/devsheikhalamin/devsheikhalamin/blob/main/alamin02.jpg" alt="alamin" />
+  <img width="80%" height="400" src="https://github.com/devsheikhalamin/devsheikhalamin/blob/main/alamin02.jpg" alt="alamin" />
 </p>
+<p align="center"> A passionate frontend developer from Bangladesh</p>
 
 ### About me:
 - Writing clean, quality code ✨
