@@ -7,9 +7,17 @@
 <p align="center"> A passionate frontend developer from Bangladesh</p>
 
 ### About me:
-- Writing clean, quality code ✨
-- Delivering projects on time ⏱️
-- Maintaining excellent communication 🗨️
+💻 Writing clean, high-quality code
+
+⏱️ Delivering projects on time
+
+🗨️ Maintaining excellent communication
+
+🛠️ Solving real-world problems efficiently
+
+📚 Continuously learning new technologies
+
+🌐 Creating user-friendly web experiences
 
 ### Connect with me:
 <p>
