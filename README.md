@@ -9,7 +9,9 @@
 ---
 
 ### 🧭 About Me
-<div align="justify">
+<div align="center">
+
+<div style="display: inline-block; text-align: justify; max-width: 600px;">
 
 💻 Writing clean, high-quality code  
 ⏱️ Delivering projects on time  
@@ -17,6 +19,8 @@
 🛠️ Solving real-world problems efficiently  
 📚 Continuously learning new technologies  
 🌐 Creating user-friendly web experiences  
+
+</div>
 
 </div>
 
