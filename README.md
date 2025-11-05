@@ -1,11 +1,10 @@
-
+<div align="center">
 # 👋 Hi, I'm **Md Alamin Sheikh**
-
+</div>
 <img src="https://github.com/devsheikhalamin/devsheikhalamin/blob/main/banner.jpg" width="100%" height="400" alt="Md Alamin Sheikh Banner" />
 <div align="center">
 ### 💡 A Passionate Frontend Developer from Bangladesh
 </div>
----
 
 ### 🧭 About Me
 <div align="left">
@@ -27,7 +26,7 @@
 
 
 
----
+
 
 ### 🤝 Connect with Me
 
@@ -40,7 +39,7 @@
   </a>
 </p>
 
----
+
 
 ### 💻 Tech Stack
 
@@ -55,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,java,nodemon" alt="Backend Skills" />
 </p>
 
----
+
 
 ### 📈 GitHub Stats
 
@@ -67,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsheikhalamin&layout=compact&theme=radical" height="150" />
 </p>
 
----
+
 
 ### 🏆 Achievements
 
@@ -77,9 +76,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=devsheikhalamin&icon=0&color=3)](https://visitcount.itsvg.in)
 
----
+
 <div align="center">
+  
 ### ✨ Quote
-> “Code is my canvas, and I paint my dreams with every line.” 🎨  
+ “Code is my canvas, and I paint my dreams with every line.” 🎨  
 
 </div>
