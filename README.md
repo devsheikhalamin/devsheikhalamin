@@ -9,9 +9,9 @@
 ---
 
 ### 🧭 About Me
-<div align="center">
+<div align="left">
 
-<div style="display: inline-block; text-align: justify; max-width: 700px;">
+<div style="text-align: justify; max-width: 700px;">
 
 💻 Writing clean, high-quality, and maintainable code with attention to detail.  
 ⏱️ Delivering projects on time while ensuring performance, scalability, and clean structure.  
@@ -27,11 +27,12 @@
 </div>
 
 
+
 ---
 
 ### 🤝 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/md-alamin-sheikh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
@@ -45,13 +46,13 @@
 ### 💻 Tech Stack
 
 #### 🧠 Frontend
-<p align="center" style="margin-top:10px; transform: translateX(50px);">
+<p style="margin-top:10px; transform: translateX(50px);">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nuxt,canva" alt="Frontend Skills" />
 </p>
 
 
 #### ⚙️ Backend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,java,nodemon" alt="Backend Skills" />
 </p>
 
@@ -59,11 +60,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=devsheikhalamin&show_icons=true&theme=radical" height="160" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsheikhalamin&layout=compact&theme=radical" height="150" />
 </p>
 
