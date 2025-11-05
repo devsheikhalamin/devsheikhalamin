@@ -9,6 +9,7 @@
 ---
 
 ### 🧭 About Me
+<div align="justify">
 
 💻 Writing clean, high-quality code  
 ⏱️ Delivering projects on time  
@@ -17,25 +18,34 @@
 📚 Continuously learning new technologies  
 🌐 Creating user-friendly web experiences  
 
+</div>
+
 ---
 
 ### 🤝 Connect with Me
 
-<p>
-  <a href="https://linkedin.com/in/md-alamin-sheikh" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-alamin-sheikh" height="30" width="40" />
-</a> <a href="https://fb.com/alaminsheikh4321" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaminsheikh4321" height="30" width="40" /> </a>
+<p align="center">
+  <a href="https://linkedin.com/in/md-alamin-sheikh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://fb.com/alaminsheikh4321" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
+  </a>
 </p>
+
+---
 
 ### 💻 Tech Stack
 
 #### 🧠 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nuxt,canva" />
+<p align="center" style="margin-top:10px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nuxt,canva" alt="Frontend Skills" />
 </p>
 
 #### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,nodemon" />
+<p align="center" style="margin-top:10px;">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,nodemon" alt="Backend Skills" />
 </p>
 
 ---
@@ -56,7 +66,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devsheikhalamin&theme=radical&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devsheikhalamin&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=devsheikhalamin&icon=0&color=3)](https://visitcount.itsvg.in)
@@ -67,4 +77,3 @@
 > “Code is my canvas, and I paint my dreams with every line.” 🎨  
 
 </div>
-
