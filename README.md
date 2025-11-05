@@ -11,18 +11,21 @@
 ### 🧭 About Me
 <div align="center">
 
-<div style="display: inline-block; text-align: justify; max-width: 600px;">
+<div style="display: inline-block; text-align: justify; max-width: 700px;">
 
-💻 Writing clean, high-quality code  
-⏱️ Delivering projects on time  
-🗨️ Maintaining excellent communication  
-🛠️ Solving real-world problems efficiently  
-📚 Continuously learning new technologies  
-🌐 Creating user-friendly web experiences  
+💻 Writing clean, high-quality, and maintainable code with attention to detail.  
+⏱️ Delivering projects on time while ensuring performance, scalability, and clean structure.  
+🗨️ Maintaining transparent and professional communication with clients and teammates.  
+🛠️ Solving real-world problems through creative and efficient front-end solutions.  
+📚 Continuously learning new technologies to stay up-to-date in the ever-evolving tech world.  
+🌐 Crafting user-friendly, accessible, and visually appealing web experiences.  
+🚀 Passionate about transforming ideas into interactive and impactful digital products.  
+🤝 Focused on teamwork, growth, and continuous improvement in every project I work on.  
 
 </div>
 
 </div>
+
 
 ---
 
@@ -42,9 +45,10 @@
 ### 💻 Tech Stack
 
 #### 🧠 Frontend
-<p align="center">
+<p align="center" style="margin-top:10px; transform: translateX(50px);">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nuxt,canva" alt="Frontend Skills" />
 </p>
+
 
 #### ⚙️ Backend
 <p align="center">
