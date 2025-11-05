@@ -28,7 +28,6 @@
   <a href="https://linkedin.com/in/md-alamin-sheikh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/alaminsheikh4321" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
   </a>
@@ -39,12 +38,12 @@
 ### 💻 Tech Stack
 
 #### 🧠 Frontend
-<p align="center" style="margin-top:10px;">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nuxt,canva" alt="Frontend Skills" />
 </p>
 
 #### ⚙️ Backend
-<p align="center" style="margin-top:10px;">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,java,nodemon" alt="Backend Skills" />
 </p>
 
@@ -54,7 +53,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsheikhalamin&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsheikhalamin&theme=radical" height="160" />
 </p>
 
 <p align="center">
