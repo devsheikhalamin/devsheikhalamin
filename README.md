@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Md Almin Sheikh
 <p align="center">
-  <img width="100%" height="500" src="althttps://github.com/devsheikhalamin/devsheikhalamin/blob/main/banner.jpg="alamin" />
+  <img width="100%" height="500" src="https://github.com/devsheikhalamin/devsheikhalamin/blob/main/banner.jpg" alt="alamin" />
 </p>
 <p align="center"> A passionate frontend developer from Bangladesh</p>
 
