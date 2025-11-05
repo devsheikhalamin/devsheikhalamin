@@ -21,16 +21,10 @@
 
 ### 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/md-alamin-sheikh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  <a href="https://fb.com/alaminsheikh4321" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
-  </a>
+<p>
+  <a href="https://linkedin.com/in/md-alamin-sheikh" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-alamin-sheikh" height="30" width="40" />
+</a> <a href="https://fb.com/alaminsheikh4321" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaminsheikh4321" height="30" width="40" /> </a>
 </p>
-
----
 
 ### 💻 Tech Stack
 
