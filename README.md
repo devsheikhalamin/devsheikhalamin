@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm **Md Alamin Sheikh**
 </div>
-<img src="https://github.com/devsheikhalamin/devsheikhalamin/blob/main/banner.jpg" width="100%" height="400" alt="Md Alamin Sheikh Banner" />
+<img src="https://github.com/devsheikhalamin/devsheikhalamin/blob/main/Linedin.png" width="100%" height="400" alt="Md Alamin Sheikh Banner" />
 <div align="center">
   
 ### 💡 A Passionate Frontend Developer from Bangladesh
